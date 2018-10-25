@@ -1,0 +1,24 @@
+h1 {
+    color: pink;}
+p  {
+    color:purple;}
+li {
+ color:hsla(120,100%,75%,0.3);}
+body {
+    background-color: yellow;}
+.flag {
+    width:300px;
+    display: block;
+    margin-left: auto;
+    width: 40%;}
+strong{
+    color:purple;}
+body {
+    background-image: url(
+        https://ifmyalbumscouldtalkdotme.files.wordpress.com/2017/04/4-queen_band_faces_2048x2048.jpg?w=840);}
+        
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;}
